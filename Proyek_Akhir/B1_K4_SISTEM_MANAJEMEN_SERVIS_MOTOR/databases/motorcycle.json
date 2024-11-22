@@ -1,0 +1,29 @@
+[
+  {
+    "IDservis": 1,
+    "name_of_motorcycle": "PCX 160",
+    "owner": "Sandhika Galih",
+    "servis": "Ganti Oli Mesin",
+    "kilometer": 16600,
+    "sparepart": [
+      "OLI SPX 2"
+    ],
+    "status": "sudah diambil",
+    "display": "off",
+    "keterangan": "Selesai"
+  },
+  {
+    "IDservis": 2,
+    "name_of_motorcycle": "AEROX 155",
+    "owner": "Sandhika Galih",
+    "servis": "Ganti Oli Mesin dan Gardan",
+    "kilometer": 10600,
+    "sparepart": [
+      "OLI MPX 2",
+      "GEAR OIL HONDA"
+    ],
+    "status": "sudah diambil",
+    "display": "off",
+    "keterangan": "Selesai"
+  }
+]

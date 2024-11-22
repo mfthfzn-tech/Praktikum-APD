@@ -1,0 +1,26 @@
+[
+  {
+    "name": "admin",
+    "username": "admin",
+    "password": "admin",
+    "role": "admin"
+  },
+  {
+    "name": "Sandhika Galih",
+    "username": "dhikaa",
+    "password": "dika123",
+    "role": "user"
+  },
+  {
+    "name": "Budi Nugraha",
+    "username": "buuudi",
+    "password": "budi123",
+    "role": "user"
+  },
+  {
+    "name": "Joko Morro",
+    "username": "joooko",
+    "password": "joko123",
+    "role": "user"
+  }
+]
